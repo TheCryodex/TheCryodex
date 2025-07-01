@@ -7,6 +7,7 @@ I'm a backend engineer with experience in building scalable, high-performance sy
 - **Frameworks:** Node.js, Express, Next.js, Gin
 - **Cloud & DevOps:** AWS, Docker, Terraform, GitHub Actions
 - **Databases:** mySQL, PostgreSQL, MongoDB, Redis
+- **AI:** Langchain, Pinecone, Agentic AI, n8n
 - **Other:** Kafka, WebSockets, GraphQL
 
 ## 🎮 You Can Talk to Me About
