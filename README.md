@@ -21,4 +21,3 @@ I'm a backend engineer with experience in building scalable, high-performance sy
 ### 📬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sarjak-chawda)
 ---
-![Profile view counter on GitHub]
